@@ -7,21 +7,29 @@
 
 # multiple assignment
 
-x, y, name,is_cool =(1, 2.5, 'Brad',True)
+# x, y, name,is_cool =(1, 2.5, 'Brad',True)
 
-print(x, y, name,is_cool)
+# print(x, y, name,is_cool)
 
 # basic mat
 
-a =x+y
+# a =x+y
 
 # casting
 
-x=str(x)
-y=int(y)
-print(type(y))
-z=float(y)
+# x=str(x)
+# y=int(y)
+# print(type(y))
+# z=float(y)
 
-# check type
-print(type(z))
-print(z)
+# # check type
+# print(type(z))
+# print(z)
+
+name='Brad'
+age=37
+
+# Concatenate
+
+print('hello i am '+ name + ' and i am ' + str(age))
+
