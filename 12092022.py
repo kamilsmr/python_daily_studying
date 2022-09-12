@@ -33,3 +33,10 @@ age=37
 
 print('hello i am '+ name + ' and i am ' + str(age))
 
+# argument position
+
+# print('{}, {}, {}'.format('a','b','c'))
+# print('{1}, {0}, {2}'.format('a','b','c'))
+
+
+
